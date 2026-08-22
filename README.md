@@ -5,9 +5,10 @@ CS Undergraduate at **IIT Jodhpur** focused on **Systems Engineering, Memory Arc
 ---
 
 ### 💻 Core Technical Focus
-- **Languages:** C++ (C++17/20, STL), Python, Bash, WebAssembly (WAT)
-- **Systems & Architecture:** ChampSim Cache Simulator, LLVM IR API, Memory Isolation, POSIX / Linux Kernel Interfaces
-- **Cloud-Native & Tools:** Docker, CMake, GCC, Git, GitHub Actions CI/CD
+* **Languages**: C, C++ (C++17/20, STL), Python, Bash
+* **Systems & Architecture**: Memory Hierarchy, ChampSim Simulator, Non-Volatile Memory (STT-RAM), Linux / POSIX
+* **Tools & Runtimes**: CMake, GCC/GDB, Git, Docker, GitHub Actions CI/CD
+* **Currently Exploring**: WebAssembly Runtimes (WasmEdge/WAT), Compiler Tools (LLVM IR)
 
 ---
 
