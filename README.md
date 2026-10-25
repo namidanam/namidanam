@@ -20,7 +20,7 @@ CS Undergraduate at **IIT Jodhpur** focused on **Systems Engineering, Memory Arc
 ---
 
 ### 📊 Open Source Contributions
-- **FailproofAI/runtime:** Engineered token coverage and user rejection logic across multi-agent workflows ([PR #221](https://github.com/FailproofAI/runtime/pull/221)).
+- **FailproofAI/runtime:** Engineered token coverage and user rejection logic across multi-agent workflows ([PR #130](https://github.com/FailproofAI/runtime/pull/130)).
 
 
 ---
